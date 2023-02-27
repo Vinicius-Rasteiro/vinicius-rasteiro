@@ -1,6 +1,7 @@
 ## Bom dia, Boa tarde ou  Boa noite! Eu sou o Vinicius.
 
-- 🌱 Estudando desenvolvimento web
+- 🌱 Estudando front-end - Alura 
+- 📚 Cursando analise e desenvolvimento de sistemas - UNIP 
 
 <div align="center">
   <a href="https://github.com/Vinicius-Rasteiro">
